@@ -78,32 +78,6 @@ The knowledge graph can be queried to uncover insights, such as:
   - `pandas`
   - `networkx` (for creating the graph)
   - `matplotlib` (for visualizing the graph)
-  - Other dependencies mentioned in the individual notebooks.
-
-To install all dependencies, run:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebooks in Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-4. Follow the numbered sequence of notebooks to build the knowledge graph step-by-step.
-
 ---
 
 ## Applications
@@ -123,8 +97,3 @@ Contributions are welcome! You can:
 - Report bugs or suggest enhancements.
 - Submit pull requests for review.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
